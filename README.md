@@ -2,21 +2,7 @@
 _OBS: Hänger ihop med detta repo:
 https://github.com/anders0228/ETB310_WarehouseDemo_
 
-Här finns ett exempel på en WCF-service med CRUD-funktionalitet  
-
- 
-
-Ett exempel på en web-service för ett lager: 
-
-https://github.com/anders0228/ETB310_WarehouseDemo 
-
- 
-
-Lager-web-servicen behöver en grossist-service också: 
-
-https://github.com/anders0228/ETB310_wholesalerDemo 
-
- 
+## Ett litet exempel på en WCF-service. 
 
 Gör såhär: 
 
